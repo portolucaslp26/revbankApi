@@ -1,0 +1,1 @@
+ALTER TABLE transferencias DROP COLUMN tipo;
